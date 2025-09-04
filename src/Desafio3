@@ -1,0 +1,18 @@
+Crie uma classe em Java chamada Projeto para gerenciar um projeto com os seguintes dados:
+- Nome: Aplicativo Mobile
+- Orçamento: R$5000,00
+- Número da equipe: 4
+- Quantidade de membros da equipe
+
+A classe deve incluir:
+1. Métodos para acessar (getters) e modificar (setters) os dados do projeto.
+2. Validação nos setters para garantir que:
+   - O orçamento seja sempre positivo.
+   - A quantidade de membros seja sempre positiva.
+3. Um método para calcular o orçamento médio por membro (orçamento / quantidade de membros).
+4. Comentários explicativos em cada parte do código.
+5. Boas práticas de programação orientada a objetos (POO), como encapsulamento e construtor.
+
+Inclua também um programa principal (main) que:
+- Crie um objeto com os valores iniciais.
+- Mostre o nome, orçamento, número da equipe, quantidade de membros e o orçamento médio por membro.
